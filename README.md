@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I'm a junior full-stack developer, training in Factoria F5. <br>
-🏆 Finalist in Hackaton July-2022, Factoria F5. <br>
+🌱 I'm a junior **full-stack developer**, training in Factoria F5. <br>
+🏆 **Finalist** in Hackaton July-2022, Factoria F5. <br>
 😎 I really love this job, learning and creating new things every day, looking for information, brain storming, and team work. <br>
 👥 Im an empath person, I love interacting with people, everywhere I work I adapt and carry out activities based on the needs the people express. <br>
 🦸‍♀️ I handle changes with ease.<br>
