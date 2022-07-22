@@ -29,7 +29,7 @@ flowchart LR
 id1[Do I want to sleep?]--yes-->id2[let sheeps = 0]
 id1--no-->id3[Don't try then]
 id2-->id4[Am I asleep?]--yes-->id5[sweet dreams zzZ]
-id4--no-->id6[sheep ++]--another sheep-->id4
+id4--no-->id6[sheep ++]--counting sheeps-->id4
 ```
     
 </details>  
