@@ -12,6 +12,15 @@ flowchart LR
 ⚡ Paying attention, showing curiosity, having motivation, being determined, sticking to it, participating, and having initiative are some of my valuable skills.<br>
 <br>
 
+<details><summary>Personal projects</summary>
+
+   * Right in the beginning of the bootcamp I thought about making a simple website where I insert my [exercises](https://yelose.github.io/f5exercises/)      
+   * Learning JS, I just felt like making a simple [2 players local game](https://github.com/Yelose/dice150) wich actually helped me to understand JavaScript
+
+    
+</details>
+
+
 <details><summary>Sleeping flowchart</summary>
     
 ```mermaid
