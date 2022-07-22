@@ -20,6 +20,20 @@ flowchart LR
     
 </details>
 
+<details><summary>Front End Skills</summary>
+
+```mermaid
+%%{init: {'theme':'base'}}%%
+pie 
+    "HTML" : 7
+    "CSS/Sass" : 7
+    "JavaScript" : 5
+    "Angular" :  4
+    "Vue" : 3
+    "Bootstrap" : 1
+```
+
+</details>
 
 <details><summary>Sleeping flowchart</summary>
     
@@ -33,15 +47,3 @@ id4--no-->id6[sheep ++]--counting sheeps-->id4
 ```
     
 </details>  
-
-```mermaid
-%%{init: {'theme':'base'}}%%
-pie 
-    title Front End Skills
-    "HTML" : 7
-    "CSS/Sass" : 7
-    "JavaScript" : 5
-    "Angular" :  4
-    "Vue" : 3
-    "Bootstrap" : 1
-```
