@@ -24,6 +24,7 @@ flowchart LR
 <details><summary>Sleeping flowchart</summary>
     
 ```mermaid
+    %%{init: {'theme':'base'}}%%
 flowchart LR
 id1[Do I want to sleep?]--yes-->id2[let sheeps = 0]
 id1--no-->id3[Don't try then]
@@ -34,6 +35,7 @@ id4--no-->id6[sheep ++]--another sheep-->id4
 </details>  
 
 ```mermaid
+%%{init: {'theme':'base'}}%%
 pie 
     title Front End Skills
     "HTML" : 7
@@ -41,4 +43,5 @@ pie
     "JavaScript" : 5
     "Angular" :  4
     "Vue" : 3
+    "Bootstrap" : 1
 ```
