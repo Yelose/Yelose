@@ -32,3 +32,13 @@ id4--no-->id6[sheep ++]--another sheep-->id4
 ```
     
 </details>  
+
+```mermaid
+pie showData
+    title Front End Skills
+    "HTML" : 7
+    "CSS/Sass" : 7
+    "JavaScript" : 5
+    "Angular" :  4
+    "Vue" : 3
+```
