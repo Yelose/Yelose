@@ -1,6 +1,6 @@
 ```mermaid
 flowchart LR
-    id1{{Marina González Suárez}}
+    id1{{"#3207; #3572;  Marina González Suárez #3572; #3207;"}}
 ```
 
 ### Hi there 👋
