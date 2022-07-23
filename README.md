@@ -19,7 +19,7 @@ flowchart LR
 
 </details>
 
-### Skills
+### 🛠 Tools I work with
 
 | Front End | Back End | Design & organization |
 | :---:  |  :---:  |  :---: |
