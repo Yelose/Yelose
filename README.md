@@ -4,13 +4,21 @@ flowchart LR
 ```
 
 🌱 I'm a junior **full-stack developer**, training in Factoria F5. <br>
-🏆 **Finalist** in Hackaton Full-Stack July-2022, Factoria F5. [Front End](https://github.com/Yelose/hackathon2022-backend) <br> 
 😎 I really love this job, learning and creating new things every day, looking for information, brain storming, and team work. <br>
 👥 I am an empath person, I love interacting with people, everywhere I work I adapt and carry out activities based on the needs the people express. <br>
 🦸‍♀️ I handle changes with ease.<br>
 ⚡ Paying attention, showing curiosity, having motivation, being determined, sticking to it, participating, and having initiative are some of my valuable skills.<br>
 <br>
 
+
+## Awards
+
+🏆 **Finalist** in Hackaton Full-Stack July-2022, Factoria F5. <br> 
+| Front End | Back End | Figma |
+|  :---:  |  :---: | :---: |
+| [Repository](https://github.com/Yelose/hackathon2022) |  [Repository](https://github.com/Yelose/hackathon2022-backend) | [![Figma](https://github.com/Yelose/Yelose/blob/main/img/figma.png?raw=true)](https://www.figma.com/file/YAx91pA7TXsx38eBbMk90v/PETS-Marketplace?node-id=0%3A1) |
+
+<br>
 <details><summary>Personal projects</summary>
 
    * Right in the beginning of the bootcamp I thought about making a simple website where I insert my [exercises](https://yelose.github.io/f5exercises/)      
