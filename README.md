@@ -3,7 +3,6 @@ flowchart LR
     id1{{"#8195;#8195; #3899;#8195; #3207;#8195; #3572;#8195;  #8499;arina #667;onzález #1359;uárez #8195;#3572;#8195; #3207;#8195; #3898; #8195;#8195;"}}
 ```
 
-### Hi there 👋
 🌱 I'm a junior **full-stack developer**, training in Factoria F5. <br>
 🏆 **Finalist** in Hackaton July-2022, Factoria F5. <br>
 😎 I really love this job, learning and creating new things every day, looking for information, brain storming, and team work. <br>
