@@ -23,7 +23,7 @@ flowchart LR
 
 | Front End | Back End | Design & organization |
 | :---:  |  :---:  |  :---: |
-| [![Vue](https://github.com/Yelose/Yelose/blob/main/img/vue.png?raw=true)](https://vuejs.org/guide/introduction.html) [![Sass](https://github.com/Yelose/Yelose/blob/main/img/sass.png?raw=true)](https://sass-lang.com/documentation/)  | [![PhP](https://github.com/Yelose/Yelose/blob/main/img/php.png?raw=true)](https://www.php.net/)     | [![Gimp2](https://github.com/Yelose/Yelose/blob/main/img/gimp.png?raw=true)](https://www.gimp.org/)     |
+|  [![Angular](https://github.com/Yelose/Yelose/blob/main/img/angular.png?raw=true)](https://angular.io/) [![Vue](https://github.com/Yelose/Yelose/blob/main/img/vue.png?raw=true)](https://vuejs.org/guide/introduction.html) [![Sass](https://github.com/Yelose/Yelose/blob/main/img/sass.png?raw=true)](https://sass-lang.com/documentation/)  [![Git](https://github.com/Yelose/Yelose/blob/main/img/git.png?raw=true)](https://git-scm.com)  [![GitHub](https://github.com/Yelose/Yelose/blob/main/img/github.png?raw=true)](https://github.com/) [![Bootstrap](https://github.com/Yelose/Yelose/blob/main/img/bootstrap.png?raw=true)](https://getbootstrap.com/) [![CSS 3](https://github.com/Yelose/Yelose/blob/main/img/css.png?raw=true)](https://www.w3schools.com/cssref/)   | [![PhP](https://github.com/Yelose/Yelose/blob/main/img/php.png?raw=true)](https://www.php.net/)     | [![Gimp2](https://github.com/Yelose/Yelose/blob/main/img/gimp.png?raw=true)](https://www.gimp.org/)  [![Figma](https://github.com/Yelose/Yelose/blob/main/img/figma.png?raw=true)](https://www.figma.com/)  [![GitKraken](https://github.com/Yelose/Yelose/blob/main/img/gitkraken.png?raw=true)](https://www.gitkraken.com/)  |
 
 
 
