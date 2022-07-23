@@ -14,9 +14,9 @@ flowchart LR
 ## Awards
 
 🏆 **Finalist** in Hackaton Full-Stack July-2022, Factoria F5. <br> 
-| Front End | Back End | Figma |
-|  :---:  |  :---: | :---: |
-| [Repository](https://github.com/Yelose/hackathon2022) |  [Repository](https://github.com/Yelose/hackathon2022-backend) | [![Figma](https://github.com/Yelose/Yelose/blob/main/img/figma.png?raw=true)](https://www.figma.com/file/YAx91pA7TXsx38eBbMk90v/PETS-Marketplace?node-id=0%3A1) |
+| Front End | Back End | Figma | Team |
+|  :---:  |  :---: | :---: | :---: |
+| [Repository](https://github.com/Yelose/hackathon2022) |  [Repository](https://github.com/Yelose/hackathon2022-backend) | [![Figma](https://github.com/Yelose/Yelose/blob/main/img/figma.png?raw=true)](https://www.figma.com/file/YAx91pA7TXsx38eBbMk90v/PETS-Marketplace?node-id=0%3A1) | [Adrián,](https://github.com/adrianmoratilla) [Jesús,](https://github.com/checkmyprojects) [Jordi,](https://github.com/JordiGDavant) [María Angélica,](https://github.com/MariangelicaCarvallo) [Mario Rubio,](https://github.com/marioastur)  [Marina,](https://github.com/Yelose) [Sara,](https://github.com/Saracode13) [Taoufik](https://github.com/taoufikL12)
 
 <br>
 <details><summary>Personal projects</summary>
@@ -28,7 +28,7 @@ flowchart LR
 
 ### 🛠 Tools I work with
 
-| Front End | Back End | Design & organization |
+| Front End | Back End | Design & organization | 
 | :---:  |  :---:  |  :---: |
 |  [![Angular](https://github.com/Yelose/Yelose/blob/main/img/angular.png?raw=true)](https://angular.io/) [![Vue](https://github.com/Yelose/Yelose/blob/main/img/vue.png?raw=true)](https://vuejs.org/guide/introduction.html) [![VS code](https://github.com/Yelose/Yelose/blob/main/img/vscode.png?raw=true)](https://code.visualstudio.com/) [![Sass](https://github.com/Yelose/Yelose/blob/main/img/sass.png?raw=true)](https://sass-lang.com/documentation/)  [![Git](https://github.com/Yelose/Yelose/blob/main/img/git.png?raw=true)](https://git-scm.com)  [![GitHub](https://github.com/Yelose/Yelose/blob/main/img/github.png?raw=true)](https://github.com/) [![Bootstrap](https://github.com/Yelose/Yelose/blob/main/img/bootstrap.png?raw=true)](https://getbootstrap.com/)  [![JavaScript](https://github.com/Yelose/Yelose/blob/main/img/js.png?raw=true)](https://www.w3schools.com/js) [![CSS 3](https://github.com/Yelose/Yelose/blob/main/img/css.png?raw=true)](https://www.w3schools.com/cssref/) [![HTML 5](https://github.com/Yelose/Yelose/blob/main/img/html.png?raw=true)](https://www.w3schools.com/html)   | [![PhP](https://github.com/Yelose/Yelose/blob/main/img/php.png?raw=true)](https://www.php.net/)  [![MySql](https://github.com/Yelose/Yelose/blob/main/img/mysql.png?raw=true)](https://dev.mysql.com/)  [![NodeJS](https://github.com/Yelose/Yelose/blob/main/img/nodejs.png?raw=true)](https://nodejs.org)   | [![Gimp2](https://github.com/Yelose/Yelose/blob/main/img/gimp.png?raw=true)](https://www.gimp.org/)  [![Figma](https://github.com/Yelose/Yelose/blob/main/img/figma.png?raw=true)](https://www.figma.com/)  [![GitKraken](https://github.com/Yelose/Yelose/blob/main/img/gitkraken.png?raw=true)](https://www.gitkraken.com/)  |
 
