@@ -11,7 +11,7 @@ flowchart LR
 <br>
 
 
-## Awards
+## 🏅 Awards
 
 🏆 **Finalist** in Hackaton Full-Stack July-2022, Factoria F5. <br> 
 | Front End | Back End | Figma | Team |
@@ -26,7 +26,7 @@ flowchart LR
 
 </details>
 
-### Contact Me
+### 📞 Contact Me
 
 [![linkedin](https://github.com/Yelose/Yelose/blob/main/img/linkedin.png?raw=true)](https://linkedin.com/in/yelose)
 
