@@ -40,10 +40,10 @@ pie
 ```mermaid
     %%{init: {'theme':'base'}}%%
 flowchart LR
-id1[Do I want to sleep?]--yes-->id2[let sheeps = 0]
-id1--no-->id3[Don't try then]
-id2-->id4[Am I asleep?]--yes-->id5[sweet dreams zzZ]
-id4--no-->id6[sheep ++]--counting sheeps-->id4
+id1[Do I want to sleep?]--"#8195;yes#8195;"-->id2[let sheeps = 0]
+id1--"#8195;no#8195;"-->id3[Stay awake]
+id2-->id4[Am I asleep?]--"#8195;yes#8195;"-->id5[sweet dreams zzZ]
+id4--"#8195;no#8195;"-->id6[sheep ++]--"#8195;counting sheeps#8195;"--->id4
 ```
     
 </details>  
