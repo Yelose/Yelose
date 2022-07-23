@@ -26,6 +26,11 @@ flowchart LR
 
 </details>
 
+### Contact Me
+
+[![linkedin](https://github.com/Yelose/Yelose/blob/main/img/linkedin.png?raw=true)](https://linkedin.com/in/yelose)
+
+
 ### 🛠 Tools I work with
 
 | Front End | Back End | Design & organization | 
