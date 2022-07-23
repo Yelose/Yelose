@@ -25,7 +25,7 @@ flowchart LR
 
 | Front End | Back End | Design & organization |
 | :---:  |  :---:  |  :---: |
-| [![Vue](https://github.com/Yelose/Yelose/blob/main/img/vue.png?raw=true)](https://vuejs.org/guide/introduction.html) [![Sass](https://github.com/Yelose/Yelose/blob/main/img/sass.png?raw=true)](https://sass-lang.com/documentation/)  | git status     | git status    |
+| [![Vue](https://github.com/Yelose/Yelose/blob/main/img/vue.png?raw=true)](https://vuejs.org/guide/introduction.html) [![Sass](https://github.com/Yelose/Yelose/blob/main/img/sass.png?raw=true)](https://sass-lang.com/documentation/)  | [![PhP](https://github.com/Yelose/Yelose/blob/main/img/php.png?raw=true)](https://www.php.net/)     | [![Gimp2](https://github.com/Yelose/Yelose/blob/main/img/gimp.png?raw=true)](https://www.gimp.org/)     |
 
 
 
