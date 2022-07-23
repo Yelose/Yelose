@@ -4,7 +4,7 @@ flowchart LR
 ```
 
 🌱 I'm a junior **full-stack developer**, training in Factoria F5. <br>
-🏆 **Finalist** in Hackaton July-2022, Factoria F5. <br>
+🏆 **Finalist** in Hackaton Full-Stack July-2022, Factoria F5. [Front End](https://github.com/Yelose/hackathon2022-backend) <br> 
 😎 I really love this job, learning and creating new things every day, looking for information, brain storming, and team work. <br>
 👥 I am an empath person, I love interacting with people, everywhere I work I adapt and carry out activities based on the needs the people express. <br>
 🦸‍♀️ I handle changes with ease.<br>
