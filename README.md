@@ -17,8 +17,17 @@ flowchart LR
    * Right in the beginning of the bootcamp I thought about making a simple website where I insert my [exercises](https://yelose.github.io/f5exercises/)      
    * Learning JS, I just felt like making a simple [2 players local game](https://github.com/Yelose/dice150) wich actually helped me to understand JavaScript
 
+# Skills
+
     
 </details>
+
+
+| Front End | Back End | Design & organization |
+| :---:  |  :---:  |  :---: |
+| [![Vue](https://github.com/Yelose/Yelose/blob/main/img/vue.png?raw=true)](https://vuejs.org/guide/introduction.html) [![Sass](https://github.com/Yelose/Yelose/blob/main/img/sass.png?raw=true)](https://sass-lang.com/documentation/)  | git status     | git status    |
+
+
 
 <details><summary>Front End Skills</summary>
 
