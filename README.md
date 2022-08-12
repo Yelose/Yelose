@@ -11,12 +11,20 @@ flowchart LR
 <br>
 
 
+
 ## 🏅 Awards
 
 🏆 **Finalist** in Hackaton Full-Stack July-2022, Factoria F5. <br> 
 | Front End | Back End | Figma | Team |
 |  :---:  |  :---: | :---: | :---: |
 | [Repository](https://github.com/Yelose/hackathon2022) |  [Repository](https://github.com/Yelose/hackathon2022-backend) | [![Figma](https://github.com/Yelose/Yelose/blob/main/img/figma.png?raw=true)](https://www.figma.com/file/YAx91pA7TXsx38eBbMk90v/PETS-Marketplace?node-id=0%3A1) | [Adrián,](https://github.com/adrianmoratilla) [Jesús,](https://github.com/checkmyprojects) [Jordi,](https://github.com/JordiGDavant) [María Angélica,](https://github.com/MariangelicaCarvallo) [Mario Rubio,](https://github.com/marioastur)  [Marina,](https://github.com/Yelose) [Sara,](https://github.com/Saracode13) [Taoufik](https://github.com/taoufikL12)
+
+<details><summary>Ver diploma</summary>
+
+<br>
+<img src="https://github.com/Yelose/Yelose/blob/main/img/hackaton2022.png?raw=true" width="100%">
+<br>
+</details>
 
 <br>
 <details><summary>Personal projects</summary>
@@ -28,7 +36,7 @@ flowchart LR
 
 ### 📞 Contact Me
 
-[![linkedin](https://github.com/Yelose/Yelose/blob/main/img/linkedin.png?raw=true)](https://linkedin.com/in/yelose)
+[![linkedin](https://github.com/Yelose/Yelose/blob/main/img/linkedin.png?raw=true)](https://linkedin.com/in/yelose) marina@yelose.dev
 
 
 ### 🛠 Tools I work with
