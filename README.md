@@ -36,6 +36,8 @@ flowchart LR
 
 </details>
 
+<br>
+
 ## 🎓 Studies
 
 <details><summary>Marketing Online</summary>
