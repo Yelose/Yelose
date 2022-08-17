@@ -29,8 +29,6 @@ flowchart LR
 <br>
 
 
-<br>
-
 ## 🎓 Studies
 
 ### Bootcamp full-stack developer
@@ -45,7 +43,7 @@ flowchart LR
 <br>
 </details>
 
-<details><summary>Diseño y programación web HTML5 y CSS3 Avanzado</summary>
+<details><summary>HTML5, CSS3, Javascript advanced web design</summary>
 
 <br>
 <img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-carval.png?raw=true" width="100%">
@@ -55,10 +53,12 @@ flowchart LR
 
 <details><summary>Build Responsive Real World Websites with HTML5 and CSS3</summary>
 
+<img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-responsive.png?raw=true" width="100%">
 
 </details>
 
 
+<br>
 
 ### 📞 Contact Me
 
