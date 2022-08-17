@@ -48,6 +48,15 @@ flowchart LR
 <br>
 </details>
 
+<details><summary>Diseño y programación web HTML5 y CSS3 Avanzado</summary>
+
+<br>
+<img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-carval.png?raw=true" width="100%">
+<img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-carval2.png?raw=true" width="100%">
+<br>
+</details>
+
+
 
 ### 📞 Contact Me
 
