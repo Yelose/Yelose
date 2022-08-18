@@ -31,11 +31,11 @@ flowchart LR
 
 ## 🎓 Studies
 
-### Bootcamp full-stack developer
+### Bootcamp full-stack developer (850h.)
    * Right in the beginning of the bootcamp I thought about making a simple website where I insert my [exercises](https://yelose.github.io/f5exercises/)      
    * Learning JS, I just felt like making a simple [2 players local game](https://github.com/Yelose/dice150) wich actually helped me to understand JavaScript
 
-<details><summary>Marketing Online</summary>
+<details><summary>Marketing Online (30h.)</summary>
 
 <br>
 <img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-marketing-p1.png?raw=true" width="100%">
@@ -43,7 +43,7 @@ flowchart LR
 <br>
 </details>
 
-<details><summary>HTML5, CSS3, Javascript advanced web design</summary>
+<details><summary>HTML5, CSS3, Javascript advanced web design (300h.)</summary>
 
 <br>
 <img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-carval.png?raw=true" width="100%">
@@ -51,7 +51,7 @@ flowchart LR
 <br>
 </details>
 
-<details><summary>Build Responsive Real World Websites with HTML5 and CSS3</summary>
+<details><summary>Build Responsive Real World Websites with HTML5 and CSS3 (12h.)</summary>
 
 <img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-responsive.png?raw=true" width="100%">
 
