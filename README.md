@@ -35,6 +35,12 @@ flowchart LR
    * Right in the beginning of the bootcamp I thought about making a simple website where I insert my [exercises](https://yelose.github.io/f5exercises/)      
    * Learning JS, I just felt like making a simple [2 players local game](https://github.com/Yelose/dice150) wich actually helped me to understand JavaScript
 
+<details><summary>Angular Material in depth (6h.)</summary>
+    <br>
+        <img src="https://github.com/Yelose/Yelose/blob/main/img/AngularMaterial.jpg?raw=true" width="100%">
+    <br>
+</details>
+
 <details><summary>Full Stack Developer (850h.)</summary>
     <br>
         <img src="https://github.com/Yelose/Yelose/blob/main/img/F5Diploma-1.png?raw=true" width="100%">
@@ -43,26 +49,25 @@ flowchart LR
 </details>
 
 <details><summary>Marketing Online (30h.)</summary>
-
-<br>
-<img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-marketing-p1.png?raw=true" width="100%">
-<img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-marketing-p2.png?raw=true" width="100%">
-<br>
+    <br>
+        <img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-marketing-p1.png?raw=true" width="100%">
+        <img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-marketing-p2.png?raw=true" width="100%">
+    <br>
 </details>
 
 <details><summary>HTML5, CSS3, Javascript advanced web design (300h.)</summary>
-
-<br>
-<img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-carval.png?raw=true" width="100%">
-<img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-carval2.png?raw=true" width="100%">
-<br>
+    <br>
+        <img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-carval.png?raw=true" width="100%">
+        <img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-carval2.png?raw=true" width="100%">
+    <br>
 </details>
 
 <details><summary>Build Responsive Real World Websites with HTML5 and CSS3 (12h.)</summary>
-
-<img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-responsive.png?raw=true" width="100%">
-
+    <br>
+        <img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-responsive.png?raw=true" width="100%">
+    <br>
 </details>
+
 
 
 <br>
