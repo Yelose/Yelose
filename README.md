@@ -35,6 +35,13 @@ flowchart LR
    * Right in the beginning of the bootcamp I thought about making a simple website where I insert my [exercises](https://yelose.github.io/f5exercises/)      
    * Learning JS, I just felt like making a simple [2 players local game](https://github.com/Yelose/dice150) wich actually helped me to understand JavaScript
 
+<details><summary>Full Stack Developer (850h.)</summary>
+    <br>
+        <img src="https://github.com/Yelose/Yelose/blob/main/img/F5Diploma-1.png?raw=true" width="100%">
+        <img src="https://github.com/Yelose/Yelose/blob/main/img/F5Diploma-2.png?raw=true" width="100%">
+    <br>
+</details>
+
 <details><summary>Marketing Online (30h.)</summary>
 
 <br>
