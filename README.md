@@ -3,7 +3,7 @@ flowchart LR
     id1{{"#8195;#8195; #3899;#8195; #3207;#8195; #3572;#8195;  #8499;arina #667;onzález #1359;uárez #8195;#3572;#8195; #3207;#8195; #3898; #8195;#8195;"}}
 ```
 
-🌱 I'm a **full-stack developer** junior, trained by Factoria F5. <br>
+🌱 I'm a **full-stack developer**, trained by Factoria F5. <br>
 😎 I really love this job, learning and creating new things every day, looking for information, brain storming, and team work. <br>
 👥 I am an empath person, I love interacting with people, everywhere I work I adapt and carry out activities based on the needs the people express. <br>
 🦸‍♀️ I handle changes with ease.<br>
