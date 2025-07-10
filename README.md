@@ -1,119 +1,116 @@
+
+<h1 align="center">🌟 Marina González Suárez – Software Engineer</h1>
+<p align="center">🧠 Curiosa, 🧩 autodidacta, 👩‍💻 full-stack web developer, y 💬 comunicadora nata.</p>
+
+---
+
+## 🌱 Sobre mí
+
+- 💼 Soy **software engineer**, formada con más de **2000h de formación intensiva** en HTML, CSS/Sass, JavaScript, TypeScript y Angular.
+- 🔧 Actualmente trabajo migrando una aplicación legacy de Java a SPA moderna con Angular actualizado siempre a la última versión y Java backend.
+- 🤝 Me encanta el trabajo en equipo: siempre doy apoyo, tengo buen humor y me gusta enseñar a otros/as con tutoriales prácticos.
+- 👁‍🗨 Desarrollo interfaces **accesibles, rápidas y mantenibles**, siguiendo buenas prácticas.
+
+---
+
+## 📊 Habilidades Técnicas
+
 ```mermaid
-flowchart LR
-    id1{{"#8195;#8195; #3899;#8195; #3207;#8195; #3572;#8195;  #8499;arina #667;onzález #1359;uárez #8195;#3572;#8195; #3207;#8195; #3898; #8195;#8195;"}}
+pie showData
+    "HTML" : 8
+    "CSS / Sass" : 9
+    "JavaScript" : 7
+    "Angular Material": 8
+    "Angular" : 8
+    "TypeScript" : 7
+    "Java" : 5
+    "Vue" : 3
+    "React" : 5
+    "Bootstrap" : 5
+    "Node.js / Express" : 3
+    "SQL / MySQL" : 4
+    "Postman / APIs REST" : 6
 ```
 
-🌱 I'm a **full-stack developer**, trained by Factoria F5. <br>
-😎 I really love this job, learning and creating new things every day, looking for information, brain storming, and team work. <br>
-👥 I am an empath person, I love interacting with people, everywhere I work I adapt and carry out activities based on the needs the people express. <br>
-🦸‍♀️ I handle changes with ease.<br>
-⚡ Paying attention, showing curiosity, having motivation, being determined, sticking to it, participating, and having initiative are some of my valuable skills.<br>
-<br>
+---
 
+## 🧠 Conocimientos Profesionales
 
+```mermaid
+pie showData
+    "Formularios Reactivos" : 7
+    "Testing Angular (Jasmine / Karma)" : 5
+    "Scrum / Kanban" : 9
+    "SOLID Principles" : 8
+    "Accesibilidad Web" : 6
+    "Figma / UI Tools" : 5
+    "Git / GitHub" : 8
+    "Presentación a Cliente" : 9
+    "Trabajo en Equipo" : 10
+    "Didáctica / Tutoriales" : 9
+```
 
-## 🏅 Awards
+---
 
-🏆 **Finalist** in Hackaton Full-Stack July-2022, Factoria F5. <br> 
-| Front End | Back End | Figma | Team |
-|  :---:  |  :---: | :---: | :---: |
-| [Repository](https://github.com/Yelose/hackathon2022) |  [Repository](https://github.com/Yelose/hackathon2022-backend) | [![Figma](https://github.com/Yelose/Yelose/blob/main/img/figma.png?raw=true)](https://www.figma.com/file/YAx91pA7TXsx38eBbMk90v/PETS-Marketplace?node-id=0%3A1) | [Adrián,](https://github.com/adrianmoratilla) [Jesús,](https://github.com/checkmyprojects) [Jordi,](https://github.com/JordiGDavant) [María Angélica,](https://github.com/MariangelicaCarvallo) [Mario Rubio,](https://github.com/marioastur)  [Marina,](https://github.com/Yelose) [Sara,](https://github.com/Saracode13) [Taoufik](https://github.com/taoufikL12)
+## 🏆 Premios
 
-<details><summary>Ver diploma</summary>
+### Finalista Hackathon Full-Stack · Julio 2022 – Factoría F5
 
+| Front End                                       | Back End                                                | Figma                                                                                     | Equipo                                                                                                                                                                                                                                                                                                                                              |
+| ----------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Repo](https://github.com/Yelose/hackathon2022) | [Repo](https://github.com/Yelose/hackathon2022-backend) | [Figma](https://www.figma.com/file/YAx91pA7TXsx38eBbMk90v/PETS-Marketplace?node-id=0%3A1) | [Adrián](https://github.com/adrianmoratilla), [Jesús](https://github.com/checkmyprojects), [Jordi](https://github.com/JordiGDavant), [María](https://github.com/MariangelicaCarvallo), [Mario](https://github.com/marioastur), [Marina](https://github.com/Yelose), [Sara](https://github.com/Saracode13), [Taoufik](https://github.com/taoufikL12) |
+
+<details><summary>🎓 Ver diploma</summary>
 <br>
 <img src="https://github.com/Yelose/Yelose/blob/main/img/hackaton2022.png?raw=true" width="100%">
-<br>
 </details>
 
-<br>
+---
 
+## 🎓 Formación
 
-## 🎓 Studies
+* **Bootcamp Full Stack – Factoría F5 (850h.)**
+* **Diseño web avanzado: HTML5, CSS3, JS – Carval Formación (300h.)**
+* **Angular Material (6h.)**
+* **Marketing Online (30h.)**
+* **Responsive Real World Websites (12h.)**
 
-### Bootcamp full-stack developer (850h.)
-   * Right in the beginning of the bootcamp I thought about making a simple website where I insert my [exercises](https://yelose.github.io/f5exercises/)      
-   * Learning JS, I just felt like making a simple [2 players local game](https://github.com/Yelose/dice150) wich actually helped me to understand JavaScript
+<details><summary>📄 Ver Diplomas</summary>
 
-<details><summary>Angular Material in depth (6h.)</summary>
-    <br>
-        <img src="https://github.com/Yelose/Yelose/blob/main/img/AngularMaterial.jpg?raw=true" width="100%">
-    <br>
+* ![Full Stack Developer](https://github.com/Yelose/Yelose/blob/main/img/F5Diploma-1.png?raw=true)
+* ![F5 2](https://github.com/Yelose/Yelose/blob/main/img/F5Diploma-2.png?raw=true)
+* ![Carval](https://github.com/Yelose/Yelose/blob/main/img/diploma-carval.png?raw=true)
+* ![AngularMaterial](https://github.com/Yelose/Yelose/blob/main/img/AngularMaterial.jpg?raw=true)
+
 </details>
 
-<details><summary>Full Stack Developer (850h.)</summary>
-    <br>
-        <img src="https://github.com/Yelose/Yelose/blob/main/img/F5Diploma-1.png?raw=true" width="100%">
-        <img src="https://github.com/Yelose/Yelose/blob/main/img/F5Diploma-2.png?raw=true" width="100%">
-    <br>
-</details>
+---
 
-<details><summary>Marketing Online (30h.)</summary>
-    <br>
-        <img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-marketing-p1.png?raw=true" width="100%">
-        <img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-marketing-p2.png?raw=true" width="100%">
-    <br>
-</details>
+## 🛠 Tools I work with
 
-<details><summary>HTML5, CSS3, Javascript advanced web design (300h.)</summary>
-    <br>
-        <img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-carval.png?raw=true" width="100%">
-        <img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-carval2.png?raw=true" width="100%">
-    <br>
-</details>
-
-<details><summary>Build Responsive Real World Websites with HTML5 and CSS3 (12h.)</summary>
-    <br>
-        <img src="https://github.com/Yelose/Yelose/blob/main/img/diploma-responsive.png?raw=true" width="100%">
-    <br>
-</details>
-
-
-
-<br>
-
-### 📞 Contact Me
-
-[![linkedin](https://github.com/Yelose/Yelose/blob/main/img/linkedin.png?raw=true)](https://linkedin.com/in/yelose) marina@yelose.dev
-
-
-### 🛠 Tools I work with
-
-| Front End | Back End | Design & organization | 
+| Front End | Back End | Design & Organization | 
 | :---:  |  :---:  |  :---: |
-|  [![Angular](https://github.com/Yelose/Yelose/blob/main/img/angular.png?raw=true)](https://angular.io/) [![Vue](https://github.com/Yelose/Yelose/blob/main/img/vue.png?raw=true)](https://vuejs.org/guide/introduction.html) [![VS code](https://github.com/Yelose/Yelose/blob/main/img/vscode.png?raw=true)](https://code.visualstudio.com/) [![Sass](https://github.com/Yelose/Yelose/blob/main/img/sass.png?raw=true)](https://sass-lang.com/documentation/)  [![Git](https://github.com/Yelose/Yelose/blob/main/img/git.png?raw=true)](https://git-scm.com)  [![Bootstrap](https://github.com/Yelose/Yelose/blob/main/img/bootstrap.png?raw=true)](https://getbootstrap.com/)  [![JavaScript](https://github.com/Yelose/Yelose/blob/main/img/js.png?raw=true)](https://www.w3schools.com/js) [![CSS 3](https://github.com/Yelose/Yelose/blob/main/img/css.png?raw=true)](https://www.w3schools.com/cssref/) [![HTML 5](https://github.com/Yelose/Yelose/blob/main/img/html.png?raw=true)](https://www.w3schools.com/html)   | [![PhP](https://github.com/Yelose/Yelose/blob/main/img/php.png?raw=true)](https://www.php.net/)  [![MySql](https://github.com/Yelose/Yelose/blob/main/img/mysql.png?raw=true)](https://dev.mysql.com/)  [![NodeJS](https://github.com/Yelose/Yelose/blob/main/img/nodejs.png?raw=true)](https://nodejs.org) [![Express](https://github.com/Yelose/Yelose/blob/main/img/express.png?raw=true)](https://expressjs.com/) [![Postman](https://github.com/Yelose/Yelose/blob/main/img/postman.png?raw=true)](https://learning.postman.com)  | [![GitHub](https://github.com/Yelose/Yelose/blob/main/img/github.png?raw=true)](https://github.com/) [![Gimp2](https://github.com/Yelose/Yelose/blob/main/img/gimp.png?raw=true)](https://www.gimp.org/)  [![Figma](https://github.com/Yelose/Yelose/blob/main/img/figma.png?raw=true)](https://www.figma.com/)  [![GitKraken](https://github.com/Yelose/Yelose/blob/main/img/gitkraken.png?raw=true)](https://www.gitkraken.com/)  |
+|  [![Angular](https://github.com/Yelose/Yelose/blob/main/img/angular.png?raw=true)](https://angular.io/) [![Vue](https://github.com/Yelose/Yelose/blob/main/img/vue.png?raw=true)](https://vuejs.org/guide/introduction.html) [![VS code](https://github.com/Yelose/Yelose/blob/main/img/vscode.png?raw=true)](https://code.visualstudio.com/) [![Sass](https://github.com/Yelose/Yelose/blob/main/img/sass.png?raw=true)](https://sass-lang.com/documentation/)  [![Git](https://github.com/Yelose/Yelose/blob/main/img/git.png?raw=true)](https://git-scm.com)  [![Bootstrap](https://github.com/Yelose/Yelose/blob/main/img/bootstrap.png?raw=true)](https://getbootstrap.com/)  [![JavaScript](https://github.com/Yelose/Yelose/blob/main/img/js.png?raw=true)](https://www.w3schools.com/js) [![CSS 3](https://github.com/Yelose/Yelose/blob/main/img/css.png?raw=true)](https://www.w3schools.com/cssref/) [![HTML 5](https://github.com/Yelose/Yelose/blob/main/img/html.png?raw=true)](https://www.w3schools.com/html)   | [![Java](https://github.com/Yelose/Yelose/blob/main/img/java.png?raw=true)](https://www.oracle.com/java/) [![PhP](https://github.com/Yelose/Yelose/blob/main/img/php.png?raw=true)](https://www.php.net/)  [![MySql](https://github.com/Yelose/Yelose/blob/main/img/mysql.png?raw=true)](https://dev.mysql.com/)  [![NodeJS](https://github.com/Yelose/Yelose/blob/main/img/nodejs.png?raw=true)](https://nodejs.org) [![Express](https://github.com/Yelose/Yelose/blob/main/img/express.png?raw=true)](https://expressjs.com/) [![Postman](https://github.com/Yelose/Yelose/blob/main/img/postman.png?raw=true)](https://learning.postman.com)  | [![GitHub](https://github.com/Yelose/Yelose/blob/main/img/github.png?raw=true)](https://github.com/) [![Gimp2](https://github.com/Yelose/Yelose/blob/main/img/gimp.png?raw=true)](https://www.gimp.org/)  [![Figma](https://github.com/Yelose/Yelose/blob/main/img/figma.png?raw=true)](https://www.figma.com/)  [![GitKraken](https://github.com/Yelose/Yelose/blob/main/img/gitkraken.png?raw=true)](https://www.gitkraken.com/)  |
 
+---
 
+## 🎮 Mini proyectos
 
-<details><summary>Front End Skills</summary>
+* 🎲 [Dice game JS local multiplayer](https://github.com/Yelose/dice150)
+* 🧰 [Ejercicios Bootcamp F5](https://yelose.github.io/f5exercises/)
 
-```mermaid
-%%{init: {'theme':'base'}}%%
-pie 
-    "HTML" : 7
-    "CSS/Sass" : 7
-    "JavaScript" : 5
-    "Angular" :  4
-    "Vue" : 3
-    "Bootstrap" : 1
-```
+---
 
-</details>
+## 💬 Contacto
 
-<details><summary>Sleeping flowchart</summary>
-    
-```mermaid
-    %%{init: {'theme':'base'}}%%
-flowchart LR
-id1[Do I want to sleep?]--"#8195;yes#8195;"-->id2[let sheeps = 0]
-id1--"#8195;no#8195;"-->id3[Stay awake]
-id2-->id4[Am I asleep?]--"#8195;yes#8195;"-->id5[sweet dreams zzZ]
-id4--"#8195;no#8195;"-->id6[sheep ++]--"#8195;counting sheeps#8195;"--->id4
-```
-    
-</details>  
+[![LinkedIn](https://github.com/Yelose/Yelose/blob/main/img/linkedin.png?raw=true)](https://linkedin.com/in/yelose)
+📧 [marina@yelose.dev](mailto:marina@yelose.dev)
 
-<details><summary>Location</summary>
+---
+
+## 📍 Localización
+
+<details><summary>📍 Location</summary>
 
 ```topojson
 {
@@ -152,13 +149,23 @@ id4--"#8195;no#8195;"-->id6[sheep ++]--"#8195;counting sheeps#8195;"--->id4
             -3.0157470703125,
             43.328174695525846
           ]
-
         ]
       }
     }
   ]
 }
-
 ```
-    
-</details>
+
+---
+
+## 💤 Bonus Flowchart
+
+```mermaid
+flowchart LR
+id1[Do I want to sleep?]--"yes"-->id2[let sheeps = 0]
+id1--"no"-->id3[Stay awake]
+id2-->id4[Am I asleep?]--"yes"-->id5[sweet dreams zzZ]
+id4--"no"-->id6[sheep++ ]-->id4
+```
+
+
