@@ -110,51 +110,7 @@ pie showData
 
 ## 📍 Localización
 
-<details><summary>📍 Location</summary>
-
-```topojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "star"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.636758804321289,
-          43.287858704287586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -1.7742919921875,
-            43.389081939117496
-          ],
-          [
-            -3.0157470703125,
-            43.328174695525846
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
+Asturias (Spain)
 
 ---
 
