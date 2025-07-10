@@ -86,7 +86,7 @@ pie showData
 
 ---
 
-## 🛠 Tools I work with
+## 🛠 Herramientas que uso
 
 | Front End | Back End | Design & Organization | 
 | :---:  |  :---:  |  :---: |
