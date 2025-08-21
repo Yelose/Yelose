@@ -6,49 +6,29 @@
 
 ## 🌱 Sobre mí
 
-- 💼 Soy **software engineer**, formada con más de **2000h de formación intensiva** en HTML, CSS/Sass, JavaScript, TypeScript y Angular.
-- 🔧 Actualmente trabajo migrando una aplicación legacy de Java a SPA moderna con Angular actualizado siempre a la última versión y Java backend.
-- 🤝 Me encanta el trabajo en equipo: siempre doy apoyo, tengo buen humor y me gusta enseñar a otros/as con tutoriales prácticos.
-- 👁‍🗨 Desarrollo interfaces **accesibles, rápidas y mantenibles**, siguiendo buenas prácticas.
+- 💼 Soy **Software Engineer** en una **consultora multinacional**, donde desarrollo con **Angular 20 en el frontend**.  
+- 🚀 Mi **siguiente paso profesional** es crecer como **Team Lead**, consolidando habilidades de liderazgo, mentoring y organización de equipos.  
+- 🎯 A medio plazo, quiero avanzar hacia el rol de **Arquitecta de Software**, diseñando soluciones escalables y sostenibles.  
+- 🤝 Me encanta el trabajo en equipo: doy apoyo, mantengo el buen humor y disfruto compartiendo conocimiento con tutoriales prácticos.  
+- 👁‍🗨 Desarrollo interfaces **accesibles, rápidas y mantenibles**, siguiendo buenas prácticas.  
 
 ---
 
-## 📊 Habilidades Técnicas
+## 📊 Estadísticas básicas
 
-```mermaid
-pie showData
-    "HTML" : 8
-    "CSS / Sass" : 9
-    "JavaScript" : 7
-    "Angular Material": 8
-    "Angular" : 8
-    "TypeScript" : 7
-    "Java" : 5
-    "Vue" : 3
-    "React" : 5
-    "Bootstrap" : 5
-    "Node.js / Express" : 3
-    "SQL / MySQL" : 4
-    "Postman / APIs REST" : 6
-```
+![Marina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yelose&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🧠 Conocimientos Profesionales
+## 🏆 Lenguajes más usados
 
-```mermaid
-pie showData
-    "Formularios Reactivos" : 7
-    "Testing Angular (Jasmine / Karma)" : 5
-    "Scrum / Kanban" : 9
-    "SOLID Principles" : 8
-    "Accesibilidad Web" : 6
-    "Figma / UI Tools" : 5
-    "Git / GitHub" : 8
-    "Presentación a Cliente" : 9
-    "Trabajo en Equipo" : 10
-    "Didáctica / Tutoriales" : 9
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yelose&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Racha de commits
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yelose&theme=tokyonight)
 
 ---
 
