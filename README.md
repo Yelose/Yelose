@@ -78,6 +78,37 @@
 
 * 🎲 [Dice game JS local multiplayer](https://github.com/Yelose/dice150)
 * 🧰 [Ejercicios Bootcamp F5](https://yelose.github.io/f5exercises/)
+* 🔐 [Autenticación con Firebase](https://github.com/Yelose/firebase-authentication)
+* 🎁 [Mummy's Little Things, página web](https://mummys-littlethings.web.app/)
+
+---
+
+## 💻 Proyectos 
+
+* 🛄 [Job Steps](https://github.com/Yelose/job-steps)
+  - [Job Steps web](https://job-steps.web.app/)
+* 🏆[Kids Rewards](https://github.com/Yelose/kids-rewards)
+  - Aplicación en desarrollo para recompensas para niños, en la que mediante una aplicación pueden ver las tareas disponibles que pueden ir haciendo para recibir una recompensa, al terminar cada tarea, se manda una notificación a sus tutores para que comprueben que está realizada, y activen la recompensa, mediante puntos, los niños podrán canjear premios previamente añadidos por los tutores.
+ 
+---
+
+## 🧑‍🎓 Tutoriales
+
+* [Tutorial Git](https://github.com/Yelose/git-tutorial-webdev)
+  - Este repositorio es un tutorial práctico paso a paso para aprender a utilizar `Git` y `GitHub` desde cero. Está pensado para ayudarte a guardar tus proyectos de **HTML, CSS y JavaScript** durante el curso de desarrollo de páginas web.
+ 
+* [i18n Angular Standalone](https://github.com/Yelose/i18n-tutorial)
+  - Como utilizar i18n en Angular 18+
+
+* [Hover Dropdown Menu](https://github.com/Yelose/hover-dropdown-menu)
+  - Tutorial para crear un menu responsive con **HTML y CSS.**
+  - [Demo](https://coleccion-legado-de-amor.web.app)
+ 
+* [Testing con Jest, JavaScript](https://github.com/Yelose/jest-test)
+  - Tutorial de cómo configurar e instalar Jest.
+ 
+* [CRUD Angular15 - Firebase7](https://github.com/Yelose/angular15-firebase7)
+  - Tutorial de CRUD completo.
 
 ---
 
